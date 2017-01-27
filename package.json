@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.bouncemarker",
+  "version": "1.0.0",
+  "description": "Bouncemarker plugin for Leaflet ===============================",
+  "main": "bouncemarker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialpinpoint/leaflet.bouncemarker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialpinpoint/leaflet.bouncemarker/issues"
+  },
+  "homepage": "https://github.com/socialpinpoint/leaflet.bouncemarker#readme"
+}
